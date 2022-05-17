@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "240989920076",
+    "project_id": "mathqize",
+    "storage_bucket": "mathqize.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240989920076:android:9160c4d0ed46d62db58de9",
+        "android_client_info": {
+          "package_name": "com.example.game1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240989920076-e4or9ck951lldru657k8gc85ta7g5hes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX2C_1bQ8079S8q3rAE2CIvh7LvBwxuME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240989920076-e4or9ck951lldru657k8gc85ta7g5hes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240989920076:android:5e5c963684fe5f1fb58de9",
+        "android_client_info": {
+          "package_name": "com.example.game_qize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240989920076-e4or9ck951lldru657k8gc85ta7g5hes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX2C_1bQ8079S8q3rAE2CIvh7LvBwxuME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240989920076-e4or9ck951lldru657k8gc85ta7g5hes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240989920076:android:b6e2bc281409855db58de9",
+        "android_client_info": {
+          "package_name": "com.example.mathqize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240989920076-e4or9ck951lldru657k8gc85ta7g5hes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX2C_1bQ8079S8q3rAE2CIvh7LvBwxuME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240989920076-e4or9ck951lldru657k8gc85ta7g5hes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240989920076:android:7766ece09fd69eecb58de9",
+        "android_client_info": {
+          "package_name": "com.example.qizegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240989920076-e4or9ck951lldru657k8gc85ta7g5hes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX2C_1bQ8079S8q3rAE2CIvh7LvBwxuME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240989920076-e4or9ck951lldru657k8gc85ta7g5hes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
